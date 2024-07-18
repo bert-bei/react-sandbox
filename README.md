@@ -1,11 +1,6 @@
-# React + Mui Dashboard
+# reactapp
 
+## Installation
 
-## Acknowledgements
- - [Build a COMPLETE React Admin Dashboard App](https://youtu.be/wYpCWwD1oz)
-
-## Demo
-
-https://reactmuidashboard.netlify.app
-
-
+https://code.visualstudio.com/download
+https://nodejs.org/en
